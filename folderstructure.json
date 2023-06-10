@@ -1,0 +1,186 @@
+{
+    "name": "Client Name",
+    "children": [
+        {
+            "name": "~Account Mgmt",
+            "children": [
+                {
+                    "name": "Billing"
+                },
+                {
+                    "name": "Client Resources"
+                },
+                {
+                    "name": "Meeting Notes"
+                },
+                {
+                    "name": "Planning"
+                },
+                {
+                    "name": "Presentations"
+                },
+                {
+                    "name": "Status"
+                }
+            ]
+        },
+        {
+            "name": "CLIENT_0000 Print Ads",
+            "children": [
+                {
+                    "name": "~AD Creative"
+                },
+                {
+                    "name": "CLIENT0000 PubName Creative Size Month",
+                    "files": [
+                        {
+                            "name": "CLIENT0000 PubName Creative Size Month_v1.1.indd"
+                        }
+                    ]
+                }
+            ],
+            "files": [
+                {
+                    "name": "BE-Ad Folder Structure_v1.1.pdf"
+                }
+            ]
+        },
+        {
+            "name": "CLIENT-0000_ProjectName_Single_Deliverable",
+            "children": [
+                {
+                    "name": "Creative",
+                    "children": [
+                        {
+                            "name": "~Assets"
+                        },
+                        {
+                            "name": "~Copy"
+                        },
+                        {
+                            "name": "~Proofs",
+                            "children": [
+                                {
+                                    "name": "Versions"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "~Research"
+                        },
+                        {
+                            "name": "~Versions"
+                        },
+                        {
+                            "name": "Production",
+                            "children": [
+                                {
+                                    "name": "~Proofs"
+                                },
+                                {
+                                    "name": "~Vendor Proofs"
+                                },
+                                {
+                                    "name": "~Versions"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Development"
+                },
+                {
+                    "name": "IA",
+                    "children": [
+                        {
+                            "name": "Sitemap",
+                            "children": [
+                                {
+                                    "name": "Versions"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Wireframes",
+                            "children": [
+                                {
+                                    "name": "Versions"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Management",
+                    "children": [
+                        {
+                            "name": "Conference Reports",
+                            "children": [
+                                {
+                                    "name": "Versions"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Discovery",
+                            "children": [
+                                {
+                                    "name": "Background Information"
+                                },
+                                {
+                                    "name": "Client Survey Data"
+                                },
+                                {
+                                    "name": "Estimate and Project Plan"
+                                },
+                                {
+                                    "name": "Signed Agreements"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Estimates"
+                        },
+                        {
+                            "name": "Schedules",
+                            "children": [
+                                {
+                                    "name": "Versions"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Status Reports",
+                            "children": [
+                                {
+                                    "name": "Versions"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MARCOM"
+                }
+            ]
+        },
+        {
+            "name": "CLIENT-0000_ProjectName_Multiple_Deliverables",
+            "children": [
+                "Repeats single deliverable structure for each deliverable"
+            ]
+        }
+    ],
+    "files": [
+        {
+            "name": "2021 Project Management Framework"
+        },
+        {
+            "name": "ServerFolders-v12.pdf"
+        },
+        {
+            "name": "Website Template Schedule"
+        }
+    ]
+}
